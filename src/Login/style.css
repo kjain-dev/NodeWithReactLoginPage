@@ -1,0 +1,15 @@
+.container {
+    display: 'flex';
+    margin-top: 50px;
+  }
+  
+  .loginHeader {
+    background-color: #7b8ae0;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .loginBtn {
+    float: right;
+    margin: 7px!important;
+  }
